@@ -1,3 +1,4 @@
+package twoDataTypesVariablesOperatorsMemory;
 
 public class Task6_SecondsInBiggerIntervals {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package twoDataTypesVariablesOperatorsMemory;
 
 public class Task7_PersonCharacteristics {
     public static void main(String[] args) {
